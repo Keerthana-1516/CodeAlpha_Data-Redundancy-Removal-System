@@ -1,4 +1,6 @@
-📊 Data Redundancy Detection System CodeAlpha Internship - Task 1
+CodeAlpha Internship - Task 1
+
+📊 Data Redundancy Detection System 
 
 📌 Overview
 
